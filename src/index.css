@@ -1,0 +1,28 @@
+.background {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  margin: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 20px;
+  font-size: 20px black;
+}
+.div {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  margin: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 20px;
+  align-items: center;
+}
+.laptop {
+  height: 200px;
+  width: 200px;
+}
+.mobile {
+  height: 200px;
+  width: ;
+}
